@@ -13,7 +13,6 @@
 # - String of ASCII characters which are considered punctuation characters in the C locale: !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~.
 
 
-#04: Password generator
 
 import random
 import string

@@ -1,5 +1,3 @@
-#06: Compund Interest Calculator
-
 print("This is a compound interest calculator, Hence can make mistake!")
 
 class Compound_Interest_Calculator():

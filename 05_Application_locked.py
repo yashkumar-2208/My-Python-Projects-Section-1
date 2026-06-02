@@ -1,5 +1,3 @@
-#05: Application locker app
-
 import time
 import pwinput
 

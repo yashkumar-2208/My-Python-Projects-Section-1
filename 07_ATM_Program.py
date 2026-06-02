@@ -1,7 +1,4 @@
-#07: ATM Project
-
 import time
-
 balance = 0
 
 def show_balance():
