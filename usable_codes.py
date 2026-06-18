@@ -22,7 +22,8 @@
 # # os.system("cls")  # Windows
 # os.system("clear")  # Linux/
 
-
+# Can open maps by user location:
+# f"https://maps.google.com/?q={user_data}"
 
 
 
